@@ -1,2 +1,2 @@
-# py-tutorials
+# PY-Tutorials
 Programming In Python Tutorials
